@@ -5,7 +5,7 @@ on:
     - "v[0-9]+.[0-9]+.[0-9]+"
 
 jobs:
-  goreleaser:
+  goreleaser-linux:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -24,7 +24,41 @@ jobs:
         uses: goreleaser/goreleaser-action@v1
         with:
           version: latest
-          args: release --rm-dist --config=.goreleaser.yml
+          args: release --rm-dist --config=.goreleaser_linux.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+  goreleaser-windows:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: Setup Go
+        uses: actions/setup-go@v1
+        with:
+          go-version: 1.17
+      - name: Run GoReleaser
+        uses: goreleaser/goreleaser-action@v1
+        with:
+          version: latest
+          args: release --rm-dist --config=.goreleaser_windows.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  goreleaser-mac:
+    runs-on: macos-latest 
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: Setup Go
+        uses: actions/setup-go@v1
+        with:
+          go-version: 1.17
+      - name: Install GoReleaser
+        run: brew install goreleaser
+      - name: Run GoReleaser
+        run: goreleaser release --rm-dist --config=.goreleaser_darwin.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,36 @@
+project_name: Oppai_benchmark
+env:
+  - GO111MODULE=on
+before:
+  hooks:
+    - go mod tidy
+checksum:
+  name_template: "{{ .ProjectName }}_windows_checksums.txt"
+
+builds:
+  - main: .
+    binary: Oppai_benchmark
+    ldflags:
+      - -s -w
+      - -X main.Version={{.Version}}
+      - -X main.Revision={{.ShortCommit}}
+    env:
+      - CGO_ENABLED=0
+    goos:
+      - windows
+    goarch:
+      - amd64
+archives:
+  - name_template: '{{ .ProjectName }}_{{ .Os }}_{{ .Arch }}{{ if .Arm }}v{{ .Arm }}{{ end }}'
+    replacements:
+      darwin: darwin
+      linux: linux
+      windows: windows
+      386: i386
+      amd64: x86_64
+    format_overrides:
+      - goos: windows
+        format: zip
+      
+release:
+  prerelease: auto
