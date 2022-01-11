@@ -19,5 +19,5 @@ Ryzen9 3950X(win10) | 24000
 Ryzen9 3950X(ubuntu20.04) | 20000
 Ryzen7 5800HS(win10)| 10000
 Core i5-8250U(win10)|2900
-Atom x5-Z8550|870
-Pentium N4200|860
+Atom x5-Z8550(win10)|870
+Pentium N4200(win10)|860
