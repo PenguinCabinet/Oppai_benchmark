@@ -49,6 +49,7 @@ func Get_score(v float64) float64 {
 func benchmark() {
 	thread_n = runtime.NumCPU()
 	N := 32.0
+	N_sec := 30
 	delta_time := 0.5
 	chan_data <- chan_t{
 		t:     0,
@@ -56,7 +57,8 @@ func benchmark() {
 		score: -1,
 	}
 	scores := []float64{}
-	for t := 0.0; t < N; t += delta_time {
+	start_time := time.Now()
+	for t := 0.0; time.Now().Unix() <= start_time.Add(time.Duration(N_sec)*time.Second).Unix() || t < N; t += delta_time {
 		t2 := t
 		start_time := time.Now()
 		S := integral_f_p(-1000, 1000, func(v float64) float64 { return Oppai_func(v, t2) })
