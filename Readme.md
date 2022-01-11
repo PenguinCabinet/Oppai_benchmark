@@ -10,6 +10,21 @@
 # ダウンロード
 [ダウンロード](https://github.com/PenguinCabinet/Oppai_benchmark/releases/latest)
 
+# 使い方
+
+## GUI
+実行ファイルをクリックするか\
+コマンドラインで
+```shell
+Oppai_benchmark
+```
+
+## CUI
+コマンドラインで
+```shell
+Oppai_benchmark c
+```
+
 
 # 性能の参考値
 
