@@ -16,8 +16,7 @@ builds:
       - -s -w
       - -X main.Version={{.Version}}
       - -X main.Revision={{.ShortCommit}}
-      - -extldflags "-static"
-      - -lGL 
+      - -extldflags "-lGL -static"
     env:
       - CGO_ENABLED=1
     goos:
