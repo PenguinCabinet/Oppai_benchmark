@@ -68,11 +68,14 @@ func (g *Game) Draw(screen *ebiten.Image) {
 			go benchmark()
 		}
 	}
-	select {
-	case g.temp_chan_data = <-chan_data:
+L1:
+	for {
+		select {
+		case g.temp_chan_data = <-chan_data:
 
-	default:
-		//screen.Fill(color.RGBA{255, 255, 255, 0xff})
+		default:
+			break L1
+		}
 	}
 	g.Init()
 	screen.Fill(color.RGBA{255, 255, 255, 0xff})
