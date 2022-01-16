@@ -22,6 +22,6 @@ func CLI_main() {
 			}
 		}
 		fmt.Printf("\r Score:%f Area:%f", temp_chan_data.score, temp_chan_data.S)
-		time.Sleep(time.Millisecond * 100)
+		time.Sleep(time.Millisecond * 250)
 	}
 }
