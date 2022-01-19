@@ -5,7 +5,9 @@
 
 これは揺れるおっぱい関数を積分して、その速度を計測するベンチマークソフトです。 
 
-[おっぱい関数は「大学対抗全日本おっぱい関数選手権大会」エントリー作品 名古屋大学代表](https://www.desmos.com/calculator/i05puaquwh?lang=ja)のものを使用させていただきました。
+[おっぱい関数は「大学対抗全日本おっぱい関数選手権大会」エントリー作品 名古屋大学代表](https://www.desmos.com/calculator/i05puaquwh?lang=ja)のものを使用させていただきました。\
+
+ARMの方、GUI環境のない方は[ユニバーサルエディション](https://github.com/PenguinCabinet/Oppai_benchmark_universal_edition/)をお使いください\
 
 
 # ダウンロード
@@ -31,6 +33,7 @@ Oppai_benchmark c
 
 CPUスペック | スコア 
 --- | ---
+Linode 48コアインスタンス(CentOS7)|26431
 Ryzen9 3950X(win10) | 24000
 Ryzen9 3900X(win10)| 21000
 Core i7 9700F(win10)| 7500
