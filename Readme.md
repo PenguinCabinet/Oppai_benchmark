@@ -42,6 +42,7 @@ Ryzen7 5800HS(win10)| 10000
 Ryzen7 1700(win10) | 8004
 Core i7 9700F(win10)| 7500
 Ryzen5 2600(win10) |6778
+Ryzen5 3500(win10)|5872
 Core i5-9400F|5200
 Ryzen5 3400G|4914
 Core i3-8350K(win10)|4100
