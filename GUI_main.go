@@ -52,7 +52,7 @@ func (g *Game) Draw(screen *ebiten.Image) {
 	if inpututil.IsKeyJustPressed(ebiten.KeyS) {
 		if !benchmark_running {
 			benchmark_running = true
-			go benchmark()
+			go benchmark(false)
 		}
 	}
 L1:

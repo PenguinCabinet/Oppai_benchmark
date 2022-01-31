@@ -5,11 +5,11 @@ import (
 	"time"
 )
 
-func CLI_main() {
+func CLI_main(Is_GPU bool) {
 	benchmark_running = true
 	chan_data = make(chan chan_t, 4096)
 
-	go benchmark()
+	go benchmark(Is_GPU)
 	var temp_chan_data chan_t
 	for benchmark_running {
 	L2:

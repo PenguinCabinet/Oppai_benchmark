@@ -25,8 +25,15 @@ func main() {
 				Name:    "CLI",
 				Aliases: []string{"c"},
 				Usage:   "run on cli",
+				Flags: []cli.Flag{
+					&cli.BoolFlag{
+						Name:  "gpu",
+						Value: false,
+						Usage: "GPU",
+					},
+				},
 				Action: func(c *cli.Context) error {
-					CLI_main()
+					CLI_main(c.Bool("gpu"))
 					return nil
 				},
 			},
