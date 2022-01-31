@@ -45,6 +45,7 @@ Ryzen5 2600(win10) |6778
 Core i5-9400F|5200
 Ryzen5 3400G|4914
 Core i3-8350K(win10)|4100
+Core i7-2600(win10)|3742
 Core i5-8250U(win10)|2900
 Atom x5-Z8550(win10)|870
 Pentium N4200(win10)|860
