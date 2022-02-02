@@ -45,7 +45,7 @@ Ryzen5 2600(win10) |6778
 Ryzen5 3500(win10)|5872
 Core i5-9400F|5200
 Ryzen5 3400G|4914
-Conoha VPS CPU 8 Core(ubuntu)|4523
+Conoha VPS CPU 8 Core(ubuntu20.04)|4523
 Core i3-8350K(win10)|4100
 Core i7-2600(win10)|3742
 Core i5-8250U(win10)|2900
