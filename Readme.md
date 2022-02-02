@@ -38,6 +38,7 @@ Ryzen9 3950X(win10) | 24000
 Core i7-12700KF(win10)|21236
 Ryzen9 3900X(win10)| 21000
 Ryzen9 3950X(ubuntu20.04) | 20000
+Core i7-11800H|11369
 Ryzen7 5800HS(win10)| 10000
 Ryzen7 1700(win10) | 8004
 Core i7 9700F(win10)| 7500
