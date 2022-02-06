@@ -33,7 +33,7 @@ Oppai_benchmark c
 
 CPUスペック | スコア 
 --- | ---
-Linode 48コアインスタンス(CentOS7)|26431
+Linode 64コアインスタンス(CentOS7)|26431
 Ryzen9 3950X(win10) | 24000
 Core i7-12700KF(win10)|21236
 Ryzen9 3950X(ubuntu20.04) | 21787
