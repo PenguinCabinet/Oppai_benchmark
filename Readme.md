@@ -40,6 +40,7 @@ Core i7-12700KF(win10)|21236
 Ryzen9 3900X(win10)| 21000
 Ryzen7 4800HS(win10)| 11722
 Core i7-11800H(win10)|11369
+Core i7-9700|8473
 Ryzen7 1700(win10) | 8004
 Core i7 9700F(win10)| 7500
 Ryzen5 2600(win10) |6778
