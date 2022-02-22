@@ -53,5 +53,6 @@ Core i7-2600(win10)|3742
 Core i5-8250U(win10)|2900
 Atom x5-Z8550(win10)|870
 Pentium N4200(win10)|860
+Conoha VPS CPU 2 Core(ubuntu20.04)|821
 VULTR Cloud Compute 1 vCPU(ubuntu20.04)|600
 Pentium III-S Tualatin(debian5)| 99
