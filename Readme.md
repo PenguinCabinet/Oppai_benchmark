@@ -41,6 +41,7 @@ Ryzen9 3900X(win10)| 21000
 Ryzen7 4800HS(win10)| 11722
 Core i7-11800H(win10)|11369
 Core i7-9700(win10)|8473
+Core i5 11400H| 8400
 Ryzen7 1700(win10) | 8004
 Core i7 9700F(win10)| 7500
 Ryzen5 2600(win10) |6778
