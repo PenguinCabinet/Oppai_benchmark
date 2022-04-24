@@ -3,8 +3,8 @@
 ![Oppai](https://github.com/PenguinCabinet/Oppai_benchmark/raw/master/explanation/Oppai.gif)
 
 This run a benchmark on your computer by calculating integral of the function of shakeing Oppai(boobs)!\
-If your computer is high spec,Oppai Purun Purun(Boobs is shakeing smoothy)!!!\
-[Oppai function of this is used Nagoya University](https://www.desmos.com/calculator/i05puaquwh)
+If your computer is high spec,Oppai Purun Purun(The boobs is shakeing smoothy)!!!\
+[The Oppai function of this is made in Nagoya University](https://www.desmos.com/calculator/i05puaquwh)
 
 # download
 [Download](https://github.com/PenguinCabinet/Oppai_benchmark/releases/latest)
@@ -19,7 +19,7 @@ Oppai_benchmark
 ```
 
 ## CUI
-run it on shell.
+run it on your shell.
 ```shell
 Oppai_benchmark c
 ```
