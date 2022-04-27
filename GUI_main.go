@@ -68,12 +68,13 @@ L1:
 	screen.Fill(color.RGBA{255, 255, 255, 0xff})
 	if !benchmark_running {
 		//fmt.Println("TRUE")
-		text.Draw(screen, "Sキーでベンチマークスタート", font_face, 120, 50, color.Black)
-		text.Draw(screen, "Putting the key of S,\nstart a benchmark ", font_face, 120, 70, color.Black)
+		text.Draw(screen, "Sキーでベンチマークスタート", font_face, 120, 70, color.Black)
+		text.Draw(screen, "Putting the key of S,\nstart a benchmark ", font_face, 120, 90, color.Black)
 	}
 	text.Draw(screen, "おっぱい関数積分ベンチマーク", font_face, 120, 20, color.Black)
-	text.Draw(screen, fmt.Sprintf("Score:%f", g.temp_chan_data.score), font_face, 120, 150, color.Black)
-	text.Draw(screen, fmt.Sprintf("面積(Area):%f", g.temp_chan_data.S), font_face, 120, 200, color.Black)
+	text.Draw(screen, "Oppai Benchmark", font_face, 120, 40, color.Black)
+	text.Draw(screen, fmt.Sprintf("Score:%.2f", g.temp_chan_data.score), font_face, 120, 150, color.Black)
+	text.Draw(screen, fmt.Sprintf("面積(The area):%.2f", g.temp_chan_data.S), font_face, 120, 200, color.Black)
 
 	for i := 5; i < len(g.y); i += 5 {
 		//fmt.Printf("%f,%f\n", g.x[i], g.y[i])
