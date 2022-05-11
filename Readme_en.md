@@ -2,9 +2,10 @@
 
 ![Oppai](https://github.com/PenguinCabinet/Oppai_benchmark/raw/master/explanation/Oppai.gif)
 
-This run a benchmark on your computer by calculating integral of the function of shakeing Oppai(boobs)!  
+This runs a benchmark on your computer by calculating integral of the function of shakeing Oppai(boobs)!  
 If your computer is high spec,Oppai Purun Purun(The boobs is shakeing smoothy)!!!  
-[The Oppai function of this is made in Nagoya University](https://www.desmos.com/calculator/i05puaquwh)
+[The Oppai function of this is made in Nagoya University](https://www.desmos.com/calculator/i05puaquwh)   
+People that would like to use on ARM or CUI only, Please use [Universal Edition](https://github.com/PenguinCabinet/Oppai_benchmark_universal_edition/).
 
 # download
 [Download](https://github.com/PenguinCabinet/Oppai_benchmark/releases/latest)
@@ -48,6 +49,7 @@ Conoha VPS CPU 6 Core(ubuntu20.04)|4523
 Core i3-8350K(win10)|4100
 Core i7-2600(win10)|3742
 Core i5-8250U(win10)|2900
+A8-7670K|1957
 Atom x5-Z8550(win10)|870
 Pentium N4200(win10)|860
 Conoha VPS CPU 2 Core(ubuntu20.04)|821
