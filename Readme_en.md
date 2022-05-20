@@ -54,5 +54,6 @@ A8-7670K|1957
 Atom x5-Z8550(win10)|870
 Pentium N4200(win10)|860
 Conoha VPS CPU 2 Core(ubuntu20.04)|821
+AWS EC2 t2.micro(amazon linux)|788
 VULTR Cloud Compute 1 vCPU(ubuntu20.04)|600
 Pentium III-S Tualatin(debian5)| 99
