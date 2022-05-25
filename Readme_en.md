@@ -31,29 +31,29 @@ Oppai_benchmark c
 The spec of CPU |The score 
 --- | ---
 Linode 64 core instance(CentOS7)|26431
-Ryzen9 3950X(win10) | 24000
-Ryzen9 3950X(ubuntu20.04) | 21787
-Core i7-12700KF(win10)|21236
-Ryzen9 3900X(win10)| 21000
-Ryzen7 4800HS(win10)| 11722
-Core i7-11800H(win10)|11369
-Core i7-9700(win10)|8473
-Core i5 11400H(win10)| 8400
-Core i5 10400(win10)|8253
-Ryzen7 1700(win10) | 8004
-Core i7 9700F(win10)| 7500
-Ryzen5 2600(win10) |6778
-Ryzen5 3500(win10)|5872
-Core i5-9400F|5200
-Ryzen5 3400G|4914
-Conoha VPS CPU 6 Core(ubuntu20.04)|4523
-Core i3-8350K(win10)|4100
-Core i7-2600(win10)|3742
-Core i5-8250U(win10)|2900
-A8-7670K(win10)|1957
-Atom x5-Z8550(win10)|870
-Pentium N4200(win10)|860
-Conoha VPS CPU 2 Core(ubuntu20.04)|821
-AWS EC2 t2.micro(amazon linux)|788
-VULTR Cloud Compute 1 vCPU(ubuntu20.04)|600
-Pentium III-S Tualatin(debian5)| 99
+AMD Ryzen9 3950X(Windows10) | 24000
+AMD Ryzen9 3950X(Ubuntu20.04) | 21787
+Intel Core i7-12700KF(Windows10)|21236
+AMD Ryzen9 3900X(Windows10)| 21000
+AMD Ryzen7 4800HS(Windows10)| 11722
+Intel Core i7-11800H(Windows10)|11369
+Intel Core i7-9700(Windows10)|8473
+Intel Core i5 11400H(Windows10)| 8400
+Intel Core i5 10400(Windows10)|8253
+AMD Ryzen7 1700(Windows10) | 8004
+Intel Core i7 9700F(Windows10)| 7500
+AMD Ryzen5 2600(Windows10) |6778
+AMD Ryzen5 3500(Windows10)|5872
+Intel Core i5-9400F|5200
+AMD Ryzen5 3400G|4914
+Conoha VPS CPU 6 Core(Ubuntu20.04)|4523
+Intel Core i3-8350K(Windows10)|4100
+Intel Core i7-2600(Windows10)|3742
+Intel Core i5-8250U(Windows10)|2900
+AMD A8-7670K(Windows10)|1957
+Intel Atom x5-Z8550(Windows10)|870
+Intel Pentium N4200(Windows10)|860
+Conoha VPS CPU 2 Core(Ubuntu20.04)|821
+AWS EC2 t2.micro(Amazon Linux)|788
+VULTR Cloud Compute 1 vCPU(Ubuntu20.04)|600
+Intel Pentium III-S Tualatin(Debian5)| 99
