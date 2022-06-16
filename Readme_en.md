@@ -34,6 +34,7 @@ Linode 64 core instance(CentOS7)|26431
 AMD Ryzen9 3950X(Windows10) | 24000
 AMD Ryzen9 3950X(Ubuntu20.04) | 21787
 Intel Core i7-12700KF(Windows10)|21236
+Intel Core i7-12700(Windows10)|19185
 AMD Ryzen9 3900X(Windows10)| 21000
 AMD Ryzen7 4800HS(Windows10)| 11722
 Intel Core i7-11800H(Windows10)|11369
