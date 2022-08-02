@@ -57,5 +57,6 @@ Intel Pentium N4200(Windows10)|860
 Conoha VPS CPU 2 Core(Ubuntu20.04)|821
 AWS EC2 t2.micro(Amazon Linux)|788
 Raspberry Pi 4 ARM Cortex-A72(Ubuntu20.04)|614
+Google Cloud Compute e2-micro(Ubuntu20.04)|610
 VULTR Cloud Compute 1 vCPU(Ubuntu20.04)|600
 Intel Pentium III-S Tualatin(Debian5)| 99
