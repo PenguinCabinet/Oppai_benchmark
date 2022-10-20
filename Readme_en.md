@@ -44,6 +44,7 @@ Intel Core i5 10400(Windows10)|8253
 AMD Ryzen7 1700(Windows10) | 8004
 Intel Core i7 9700F(Windows10)| 7500
 AMD Ryzen5 2600(Windows10) |6778
+Xeon E5-2680(Windows11)|6400
 AMD Ryzen5 3500(Windows10)|5872
 Intel Core i5-9400F|5200
 AMD Ryzen5 3400G|4914
