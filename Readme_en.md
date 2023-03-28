@@ -30,7 +30,7 @@ Oppai_benchmark c
 
 The spec of CPU |The score 
 --- | ---
-Linode 64 core instance(CentOS7)|26431
+Linode 64 Core Instance(CentOS7)|26431
 AMD Ryzen9 3950X(Windows10) | 24000
 AMD Ryzen9 3950X(Ubuntu20.04) | 21787
 Intel Core i7-12700KF(Windows10)|21236
@@ -49,6 +49,7 @@ AMD Ryzen5 3500(Windows10)|5872
 Intel Core i5-9400F|5200
 AMD Ryzen5 3400G|4914
 Conoha VPS CPU 6 Core(Ubuntu20.04)|4523
+WebARENA Indigo 8vCPU(CentOS7.5)|4335
 Intel Core i3-8350K(Windows10)|4100
 Intel Core i7-2600(Windows10)|3742
 Intel Core i5-8250U(Windows10)|2900
