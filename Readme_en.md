@@ -1,6 +1,11 @@
 # Oppai Benchmark
 
-![Oppai](https://github.com/PenguinCabinet/Oppai_benchmark/raw/master/explanation/Oppai.gif)
+<details>
+<summary>⚠️NSFW⚠️</summary>
+
+  ![Oppai](https://github.com/PenguinCabinet/Oppai_benchmark/raw/master/explanation/Oppai.gif)
+
+</details>
 
 This runs a benchmark on your computer by calculating integral of the function of shakeing Oppai(boobs)!  
 If your computer is high spec,Oppai Purun Purun(The boobs is shakeing smoothy)!!!  
