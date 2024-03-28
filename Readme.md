@@ -1,6 +1,5 @@
 [REAMDME OF ENGLISH](./Readme_en.md)
 # おっぱい関数積分ベンチマーク
-# NSFW
 <details>
 <summary>⚠️NSFW⚠️</summary>
 
