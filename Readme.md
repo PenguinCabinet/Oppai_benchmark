@@ -1,7 +1,12 @@
 [REAMDME OF ENGLISH](./Readme_en.md)
 # おっぱい関数積分ベンチマーク
+# NSFW
+<details>
+<summary>⚠️NSFW⚠️</summary>
 
-![Oppai](https://github.com/PenguinCabinet/Oppai_benchmark/raw/master/explanation/Oppai.gif)
+  ![Oppai](https://github.com/PenguinCabinet/Oppai_benchmark/raw/master/explanation/Oppai.gif)
+
+</details>
 
 これは揺れるおっぱい関数を積分して、その速度を計測するベンチマークソフトです。 
 
