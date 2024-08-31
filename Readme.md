@@ -35,6 +35,9 @@ Oppai_benchmark c
 
 # 性能の参考値
 
+> [!WARNING]
+> スコア値が不安定だったり、矛盾している場合があります。正確なベンチマークではなく、あくまでジョークソフトだと考えてください
+
 CPUスペック | スコア 
 --- | ---
 Linode 64 Core Instance(CentOS7)|26431
@@ -43,6 +46,7 @@ AMD Ryzen9 3950X(Ubuntu20.04) | 21787
 Intel Core i7-12700KF(Windows10)|21236
 AMD Ryzen9 3900X(Windows10)| 21000
 Intel Core i7-12700(Windows11)|20800
+Ryzen9 5900HS(Windows11)|13771
 AMD Ryzen7 4800HS(Windows10)| 11722
 Intel Core i7-11800H(Windows10)|11369
 Intel Core i7-9700(Windows10)|8473
@@ -60,7 +64,9 @@ WebARENA Indigo 8vCPU(CentOS7.5)|4335
 Intel Core i3-8350K(Windows10)|4100
 Intel Core i7-2600(Windows10)|3742
 Intel Core i5-8250U(Windows10)|2900
+Raspberry Pi 5 (Raspberry Pi OS)|2554
 AMD A8-7670K(Windows10)|1957
+Raspberry Pi 4 (RockyLinux)|966
 Intel Atom x5-Z8550(Windows10)|870
 Intel Pentium N4200(Windows10)|860
 Conoha VPS CPU 2 Core(Ubuntu20.04)|821
