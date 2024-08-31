@@ -63,6 +63,7 @@ Conoha VPS CPU 6 Core(Ubuntu20.04)|4523
 WebARENA Indigo 8vCPU(CentOS7.5)|4335
 Intel Core i3-8350K(Windows10)|4100
 Intel Core i7-2600(Windows10)|3742
+Intel i5-7500(Windows10)|3638
 Intel Core i5-8250U(Windows10)|2900
 Raspberry Pi 5 (Raspberry Pi OS)|2554
 AMD A8-7670K(Windows10)|1957
