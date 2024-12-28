@@ -1,4 +1,8 @@
 [REAMDME OF ENGLISH](./Readme_en.md)
+
+> [!IMPORTANT]
+> 本ソフトウェアは、女性差別、性的搾取、女性の自己決定の否定、に賛同するものではありません
+
 # おっぱい関数積分ベンチマーク
 <details>
 <summary>⚠️NSFW⚠️</summary>
