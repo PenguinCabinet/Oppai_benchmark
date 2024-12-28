@@ -1,5 +1,6 @@
 # Oppai Benchmark
-
+> [!IMPORTANT]
+> This software does not endorse discrimination against women, sexual exploitation, or the denial of women's self-determination.
 <details>
 <summary>⚠️NSFW⚠️</summary>
 
