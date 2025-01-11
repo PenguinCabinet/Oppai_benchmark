@@ -3,19 +3,20 @@
 > [!IMPORTANT]
 > 本ソフトウェアは、女性差別、性的搾取、女性の自己決定の否定、に賛同するものではありません
 
-# おっぱい関数積分ベンチマーク
 <details>
 <summary>⚠️NSFW⚠️</summary>
 
+# おっぱい関数積分ベンチマーク
+
   ![Oppai](https://github.com/PenguinCabinet/Oppai_benchmark/raw/master/explanation/Oppai.gif)
 
-</details>
 
 これは揺れるおっぱい関数を積分して、その速度を計測するベンチマークソフトです。 
 
 おっぱい関数は[「大学対抗全日本おっぱい関数選手権大会」エントリー作品 名古屋大学代表](https://www.desmos.com/calculator/i05puaquwh?lang=ja)のものを使用させていただきました。   
 
 ARMの方、GUI環境のない方は[ユニバーサルエディション](https://github.com/PenguinCabinet/Oppai_benchmark_universal_edition/)をお使いください   
+</details>
 
 
 # ダウンロード
@@ -40,7 +41,7 @@ Oppai_benchmark c
 # 性能の参考値
 
 > [!WARNING]
-> スコア値が不安定だったり、矛盾している場合があります。正確なベンチマークではなく、あくまでジョークソフトだと考えてください
+> スコア値が不安定だったり、矛盾している場合があります。正確なベンチマークではない、と考えてください
 
 CPUスペック | スコア 
 --- | ---
