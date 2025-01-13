@@ -81,3 +81,6 @@ Raspberry Pi 4 ARM Cortex-A72(Ubuntu20.04)|614
 Google Cloud Compute e2-micro(Ubuntu20.04)|610
 VULTR Cloud Compute 1 vCPU(Ubuntu20.04)|600
 Intel Pentium III-S Tualatin(Debian5)| 99
+
+# 参考
+* [「大学対抗全日本おっぱい関数選手権大会」エントリー作品 名古屋大学代表](https://www.desmos.com/calculator/i05puaquwh?lang=ja)
