@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > This software does not endorse discrimination against women, sexual exploitation, or the denial of women's self-determination.
 >
-> This software is not good from a social moral point of view, but even if I delete it, OSINT will immediately reveal that I created it, so I will continue to release it. I am currently reflecting on this.
+> This software is not good from a social moral point of view, but even if I delete it, OSINT will immediately reveal that I created it, so I will continue to release it. Looking back, I am reflecting on this. (Update: January 14, 2025)
 
 <details>
 <summary>⚠️NSFW⚠️</summary>
