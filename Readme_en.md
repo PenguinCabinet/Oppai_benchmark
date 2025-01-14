@@ -1,5 +1,8 @@
 > [!IMPORTANT]
 > This software does not endorse discrimination against women, sexual exploitation, or the denial of women's self-determination.
+>
+> This software is not good from a social moral point of view, but even if I delete it, OSINT will immediately reveal that I created it, so I will continue to release it. I am currently reflecting on this.
+
 <details>
 <summary>⚠️NSFW⚠️</summary>
   
@@ -8,8 +11,7 @@
   ![Oppai](https://github.com/PenguinCabinet/Oppai_benchmark/raw/master/explanation/Oppai.gif)
 
 
-This runs a benchmark on your computer by calculating integral of the function of shakeing Oppai(boobs)!  
-If your computer is high spec,Oppai Purun Purun(The boobs is shakeing smoothy)!!!  
+This runs a benchmark on your computer by calculating integral of the function of shakeing Oppai(boobs).  
 [The Oppai function of this is made in Nagoya University](https://www.desmos.com/calculator/i05puaquwh)   
 People that would like to use on ARM or CUI only, Please use [Universal Edition](https://github.com/PenguinCabinet/Oppai_benchmark_universal_edition/).
 
